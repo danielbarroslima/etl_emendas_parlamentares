@@ -9,6 +9,15 @@ Repositório desenvolvido para o desafio da Digital Inonovation One, onde aprend
 ## Objetivo
 Praticar as etapas do ETL para que possamos agregar conhecimento sobre o mesmo e adicionar conhecimento nos dados fornecidos.
 
+## Sobre os dados abertos
+
+Dados abertos
+Aqui é possível baixar os dados apresentados no Portal da Transparência do Governo Federal, em formato aberto, possibilitando que os usuários façam cruzamentos e análises específicas, de acordo com suas necessidades.
+
+Os arquivos são disponibilizados em formato CSV (clique para mais informações) nas abas abaixo, de acordo com o tema e a periodicidade de atualização das respectivas consultas.
+
+A disponibilização de informações em dados abertos visa aumentar a transparência e a participação por parte do cidadão, além de gerar, potencialmente, diversas aplicações desenvolvidas colaborativamente pela sociedade.
+
 ## Ferramentas
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 [![GitHub](https://img.shields.io/badge/GitHub-222?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
